@@ -391,7 +391,7 @@ namespace game_mario
 
         private void FrmTelaJogo_Load(object sender, EventArgs e)
         {
-            playsound("18 overworld bgm.mp3");
+             playsound("18 overworld bgm.mp3");
         }
 
         private void Maximizar()
